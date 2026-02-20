@@ -4,13 +4,6 @@ Automate and scale your LinkedIn job search process using a **low-code automatio
 
 ---
 
-## 💬 Chatbot URL
-
-Access the live chatbot UI here:  
-👉 **https://configurable-n8n-cha-jiye.bolt.host/**
-
----
-
 ## 🚀 Project Overview
 
 This project implements an **end-to-end job search automation system** powered by low-code tools.  
@@ -49,6 +42,15 @@ The automation is orchestrated in **n8n** using the following steps:
    - Job Title  
    - Company Name  
    - Job Post Link  
+
+---
+
+## 💬 Chatbot URL
+
+Access the chatbot UI endpoint here:  
+👉 **https://configurable-n8n-cha-jiye.bolt.host/**  
+> [!WARNING]  
+> **NOTE:** Docker server is currently inactive
 
 ---
 
@@ -112,4 +114,5 @@ This template can be adapted for:
 This project is provided as a template for learning and customization.
 
 ---
+
 
