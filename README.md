@@ -62,7 +62,7 @@ Access the chatbot UI endpoint here:
 
 ## 🖥 Application Screenshot
 
-![App Screenshot](./app-screenshot.png)
+![App Screenshot](./app_screenshot.png)
 
 ---
 
